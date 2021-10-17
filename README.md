@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ever Sardoth
 - 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently developing projects to build a complex portfolio
-- 💞️ I’m looking for a job as Software Engineer
+- 💞️ I’m looking for a job as a Software Engineer
 - 📫 How to reach me linkedin.com/in/eversardoth/
 
 <!---
